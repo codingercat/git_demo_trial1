@@ -1,7 +1,5 @@
 My first trial with git-ting!
 
-Some more edits!
-
 ##########File references############
 local -- repo
 origin(online server) -- some server upload (github)
