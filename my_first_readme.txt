@@ -1,5 +1,6 @@
 My first trial with git-ting!
 
+Some more edits!
 
 ##########File references############
 local -- repo
